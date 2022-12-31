@@ -1,6 +1,8 @@
 # AMAIA
 
-Este repositorio incluye los Notebook correspondientes al Trabajo Fin de Master: **ChatBot empático basado en BERT, GPT-3 y aprendizaje por refuerzo.**
+Este repositorio incluye los Notebook correspondientes al Trabajo Fin de Master:
+
+**ChatBot empático basado en BERT, GPT-3 y aprendizaje por refuerzo.**
 
 siendo:
 
