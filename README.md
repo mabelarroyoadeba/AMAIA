@@ -18,6 +18,6 @@ En el directorio **Ficheros intermedios** se encuentran los ficheros .csv que se
 
 **bettern.csv** Contiene las lineas que generan mejor nivel de emoción. Este fichero se utiliza para reentrenar el modelo GPT-3 en cada episodio.
 
-**trained_models.csv: Este fichero contiene los nombres de los modelos que se crean en cada episodio de forma recursiva. Estos modelos intermedios se utilizan para realizar inferencias y ver la evolución de las respuestas.
+**trained_models.csv:** Este fichero contiene los nombres de los modelos que se crean en cada episodio de forma recursiva. Estos modelos intermedios se utilizan para realizar inferencias y ver la evolución de las respuestas.
 
 
