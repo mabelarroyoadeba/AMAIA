@@ -14,6 +14,8 @@ siendo:
 
 **04 Entrenamiento chatbot:** Por último, una vez construido el modelo en los apartados anteriores, se procede a entrenar el agente mediante el algoritmo de gradientes de política REINFORCE.
 
+**05 Implementacion telegram:** Con este script se implementa el modelo para que funcione como un chatbot de Telegram.
+
 En el directorio **Ficheros intermedios** se encuentran los ficheros .csv que se generaron durante el entrenamiento del chatbot: 
 
 **agentn.csv:** Contiene los turnos de conversación con los datos de recompensa, nivel de emoción etc. que se generan durante el entrenamiento episódico.
