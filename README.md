@@ -25,3 +25,4 @@ En el directorio **Ficheros intermedios** se encuentran los ficheros .csv que se
 **trained_models.csv:** Este fichero contiene los nombres de los modelos que se crean en cada episodio de forma recursiva. Estos modelos intermedios se utilizan para realizar inferencias y ver la evolución de las respuestas.
 
 
+En el directorio  **Apendice** se encuentra el fichero .py que corresponde a la codificación del chatbot basado en BlenderBot.
